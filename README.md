@@ -14,7 +14,14 @@ PopWindow需要一个设置GlobleKey的锚点组件才能正确的显示；当�
 ##  如何使用
 
 ```dart
+
+  popupwindow:
+    git:
+      url: https://github.com/zhanshengli/flutter_popupwindow.git
+
+
 GlobalKey globalKey = GlobalKey();
+
 TextButton(
 key: globalKey,
 onPressed: () {
