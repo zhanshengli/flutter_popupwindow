@@ -5,8 +5,10 @@ PopWindow需要一个设置GlobleKey的锚点组件才能正确的显示；当�
 做了限制，最高是280像素;当显示在锚点上下时，PopWindow的宽度默认是锚点的宽度，可以手动设置width
 
 ## 屏幕截图
- 
- 
+ ![image](https://github.com/zhanshengli/flutter_popupwindow/blob/main/screenshot/left.jpg)
+![image](https://github.com/zhanshengli/flutter_popupwindow/blob/main/screenshot/top.jpg)
+![image](https://github.com/zhanshengli/flutter_popupwindow/blob/main/screenshot/right.jpg)
+![image](https://github.com/zhanshengli/flutter_popupwindow/blob/main/screenshot/bottom.jpg)
 
 
 ##  如何使用
